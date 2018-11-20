@@ -1,3 +1,6 @@
-# Hello-world
-
-This is a new post for the Learning Course 
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
